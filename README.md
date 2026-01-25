@@ -23,7 +23,6 @@ Técnologias utilizadas:
 
 - HTML5
 - CSS3
-- Tailwind CSS
 
 Conceitos aplicados
 - HTML semântico
